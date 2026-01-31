@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Trenches Value List</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header>
+    <div class="site-logo">
+      <img src="https://placehold.co/60x60/0a0f1a/5ecbff?text=💠" alt="logo">
+      <span class="logotext">Trenches <b>Value List</b></span>
+    </div>
+
+    <h1>Pet Simulator 99 Values</h1>
+
+    <div class="search-container">
+      <input type="text" id="search" placeholder="Search pets...">
+    </div>
+
+    <div class="toolbar">
+      <div class="filter-bar">
+        <button data-filter="all" class="active">All</button>
+        <button data-filter="Huge">Huge</button>
+        <button data-filter="Titanic">Titanic</button>
+        <button data-filter="Exclusive">Exclusive</button>
+        <button data-filter="Mythical">Mythical</button>
+      </div>
+
+      <div class="sort-container">
+        <select id="sort">
+          <option value="default">Sort By</option>
+          <option value="a-z">Name: A → Z</option>
+          <option value="rarity">Rarity</option>
+        </select>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section id="stats-bar">
+      <div class="stat"><strong id="total-count">0</strong><span>Total</span></div>
+      <div class="stat"><strong id="visible-count">0</strong><span>Visible</span></div>
+    </section>
+
+    <div id="pet-list" class="grid"></div>
+  </main>
+
+  <footer>
+    <p>© 2026 Trenches Value List | Designed by You</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

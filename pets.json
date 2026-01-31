@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Huge Cat",
+    "rarity": "Huge",
+    "value": "Soon",
+    "img": "https://placehold.co/100x100/0b1220/5ecbff?text=Huge+Cat",
+    "description": "Classic Huge pet. Limited release."
+  },
+  {
+    "name": "Huge Bread Shiba",
+    "rarity": "Huge",
+    "value": "N/A",
+    "img": "https://placehold.co/100x100/0b1220/5ecbff?text=Bread+Shiba",
+    "description": "Cute bakery companion from a 2024 event."
+  },
+  {
+    "name": "Titanic Capybara",
+    "rarity": "Titanic",
+    "value": "Soon",
+    "img": "https://placehold.co/100x100/0b1220/5ecbff?text=Titanic+Capy",
+    "description": "Massive rarity — exclusive event reward."
+  },
+  {
+    "name": "Exclusive Pop Cat",
+    "rarity": "Exclusive",
+    "value": "Soon",
+    "img": "https://placehold.co/100x100/0b1220/5ecbff?text=Pop+Cat",
+    "description": "Known for its iconic meme animation."
+  },
+  {
+    "name": "Exclusive Meebo in a Spaceship",
+    "rarity": "Exclusive",
+    "value": "N/A",
+    "img": "https://placehold.co/100x100/0b1220/5ecbff?text=Meebo",
+    "description": "Intergalactic themed exclusive pet."
+  },
+  {
+    "name": "Mythical Pixel Dragon",
+    "rarity": "Mythical",
+    "value": "Soon",
+    "img": "https://placehold.co/100x100/0b1220/5ecbff?text=Pixel+Dragon",
+    "description": "A rare dragon made entirely of glowing pixels."
+  },
+  {
+    "name": "Huge Neon Twilight Wolf",
+    "rarity": "Huge",
+    "value": "Soon",
+    "img": "https://placehold.co/100x100/0b1220/5ecbff?text=Neon+Wolf"
+  },
+  {
+    "name": "Titanic Banana",
+    "rarity": "Titanic",
+    "value": "N/A",
+    "img": "https://placehold.co/100x100/0b1220/5ecbff?text=Banana",
+    "description": "Extremely limited joke pet — nearly unobtainable."
+  }
+]
